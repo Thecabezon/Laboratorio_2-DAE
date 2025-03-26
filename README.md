@@ -19,13 +19,16 @@ The project follows Django's **MVT (Model-View-Template)** pattern and is struct
 ---
 
 📝 Authors
-Steyci Gianella Cordova Apolinario
-Yudith Rossy Pacco Pachapuma
-Jefferson Manuel Rojas Sosa
+- Steyci Gianella Cordova Apolinario
+- Yudith Rossy Pacco Pachapuma
+- Jefferson Manuel Rojas Sosa
+
+---
+  
 📚 References
-Django Documentation
-Bootstrap Documentation
-Django Forms
+- Django Documentation
+- Bootstrap Documentation
+- Django Forms
 
 ---
 Built with ❤️ using Django.
